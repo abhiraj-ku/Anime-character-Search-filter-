@@ -5,7 +5,7 @@ I am working on it to add new feature and make this a cool website to search ani
 
 If you think You can contribute to this project in any way possible .. You are absolutely Welcome to do So 
 
-fork<<clone << make changes << push << create a PR << Review << Done...
+fork << clone << make changes << push << create a PR << Review << Done...
 
 Sharing A screenshot of Initial Version (mind it its under production)
 
